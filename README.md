@@ -40,17 +40,21 @@ use an ORM and dockerize this application.
 
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the project files.
-3. Run the following command:
+3. Run the following command to install requirements:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run the following command:
    ```
    python chocolate_house_app.py
    ```
 
-4. If you're using Python 3 and the above command doesn't work, try:
+5. If you're using Python 3 and the above command doesn't work, try:
    ```
    python3 chocolate_house_app.py
    ```
 
-5. The application will start, and you'll see the main menu in the console.
+6. The application will start, and you'll see the main menu in the console.
 
 ## Using the Application
 
